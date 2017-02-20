@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("Hellow World");
 		System.out.println("Hellow World");
 		System.out.println("Hellow World");
-		System.out.println("Hellow World");
+		System.out.println("User2");
 	}
 
 }
